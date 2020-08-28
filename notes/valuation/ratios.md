@@ -2,6 +2,8 @@
 
 * Price/Earnings [[PE]]
 * Price/Book Value
+* Price/Sale [[PS]]
+* Price/Cash Flow
 * Debt/Equity
 * Return on Equity
 * Current Ratio

@@ -1,4 +1,5 @@
 # PEG Ratio
+Price Earning Grotwth  
 
 PEG Ratio= PE/EPS Growth
 
