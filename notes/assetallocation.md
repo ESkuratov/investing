@@ -75,3 +75,5 @@ ADR
 
  CAGR /Compound Annual Growth Rate/
  Volatility Drag = средняя арифметическая доходность - средняя геометрическая доходность
+
+ Коэффициент Шарпа
